@@ -3,7 +3,7 @@
 
 This project demonstrates a basic front-end approach to SQL injection prevention for educational purposes. It's important to understand that **client-side filtering alone is not sufficient** to secure your application. Always implement robust server-side security measures.
 
-## **Files:**
+## **Files:** 
 
 * index.html: Contains the login form and basic structure of the page.
 * style.css: Styles the login form and query output elements.
